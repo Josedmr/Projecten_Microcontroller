@@ -5,7 +5,7 @@
 
 #define KNOP 5 
 
-void MyGPIO_setup_led(int pin);
+void MyGPIO_setup_ledd(int pin);
 void MyGPIO_setup_button(int pin);
 
 int MyGPIO_read(int pin);
